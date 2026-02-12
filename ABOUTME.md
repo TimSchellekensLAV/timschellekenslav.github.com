@@ -1,6 +1,6 @@
 layout: page
-title: "PAGE-TITLE"
-permalink: /URL-PATH
+title: "About me"
+permalink: /aboutme
 
 This is an about me page
 It's about me
